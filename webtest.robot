@@ -3,7 +3,7 @@ Documentation	Simple Example
 Library		SeleniumLibrary
 
 *** Variables ***
-${url}		http://172.20.53.114/date.html
+${url}		http://www.xamk.fi
 ${browser}	headlesschrome
 
 *** Test Cases ***
